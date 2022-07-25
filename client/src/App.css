@@ -27,7 +27,7 @@ body {
   width: 210px;
   height: 40px;
   margin: 7px;
-  border: 2px solid #43a047;
+  border: 2px solid #79b490;
   border-radius: 5px;
   padding: 5px;
   font-size: 16px;
@@ -41,7 +41,7 @@ body {
   border-radius: 5px;
   padding: 5px;
   font-size: 16px;
-  background: #43a047;
+  background: #79b490;
   color: #fff;
   cursor: pointer;
 }
@@ -51,7 +51,7 @@ body {
 }
 
 .chat-window {
-  width: 300px;
+  width: 500px;
   height: 420px;
 }
 
@@ -60,7 +60,6 @@ body {
 }
 .chat-window .chat-header {
   height: 45px;
-  border-radius: 6px;
   background: #263238;
   position: relative;
   cursor: pointer;
@@ -101,7 +100,7 @@ body {
   height: auto;
   min-height: 40px;
   max-width: 120px;
-  background-color: #43a047;
+  background-color: #79b490;
   border-radius: 5px;
   color: white;
   display: flex;
@@ -184,7 +183,7 @@ body {
 }
 
 .chat-window .chat-footer button:hover {
-  color: #43a047;
+  color: #79b490;
 }
 .hide {
   opacity: 0 !important;
