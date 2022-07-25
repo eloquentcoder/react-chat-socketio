@@ -3,7 +3,7 @@ version: '3.8'
 services:
   api: 
     build: ./server
-    container_name: server-chat
+    container_name: server_chat
     ports:
       - '4000:4000'
     volumes:
